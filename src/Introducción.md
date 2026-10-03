@@ -9,4 +9,14 @@ Quiza le interese visitar las siguientes secciones:
 
 Se trata de un documento editado y practicado por los miembros de [Unemployed Games].
 
+## Licencia
+
+A menos que se indique lo contrario, esta documentación está distribuida
+bajo los terminos de la licencia _CC0 1.0 Universal_.
+
+Es copyright 2026 _Miembros de Unemployed Games_.
+
+Vease [LICENSE.txt en el repositorio de Git](https://github.com/UnemployedGames/Docs/blob/main/LICENSE.txt)
+para más detalles.
+
 [Unemployed Games]: https://github.com/UnemployedGames
