@@ -224,3 +224,4 @@ $RECYCLE.BIN/
 # Swap Files #
 .*.kate-swp
 .swp.*
+book/
