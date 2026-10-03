@@ -2,8 +2,8 @@
 
 Disponible en vivo en <https://unemployedgames.github.io/Docs>.
 
-Recoge y documenta distintas técnicas y buenas prácticas de programación y
-desarrollo de videojuegos.
+Colección y documentación de distintas técnicas y buenas prácticas de programación
+y desarrollo de videojuegos.
 
 ## Licencia
 

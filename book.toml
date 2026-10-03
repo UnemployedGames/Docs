@@ -1,4 +1,6 @@
 [book]
 title = "Documentación internal de Unemployed Games"
+description = "Colección y documentación de distintas técnicas y buenas prácticas de programación y desarrollo de videojuegos."
+
 authors = ["Jorge Dobón Blanco"]
 language = "es"
